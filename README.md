@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![GitHub Banner](./intro.gif)](https://github.com/RussiaFPS)
 <!--
 **RussiaFPS/RussiaFPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
