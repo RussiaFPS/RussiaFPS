@@ -4,7 +4,7 @@
 
 
 ## Some Repositories 📌
-<a href="hhttps://github.com/RussiaFPS/e-manager">
+<a href="https://github.com/RussiaFPS/e-manager">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RussiaFPS&repo=e-manager&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff" />
 </a>
 
@@ -43,5 +43,5 @@
 ![](https://img.shields.io/badge/Test-Unit%20testing-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
 
 ### Заключение 📣
-EN: Bill Gates Quote: “Patience is a key element of success.”
+EN: Bill Gates Quote: “Patience is a key element of success.” <br />
 RU: "Терпение - это ключевой элемент успеха" (с) Билл Гейтс
