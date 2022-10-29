@@ -1,32 +1,35 @@
-# Добро пожаловать 👋
+# Hi there 👋
 [![GitHub Banner](./intro.gif)](https://github.com/RussiaFPS)
 
+<div align="center"/>
+<h4>I've been looked at</h4>
+<p><img src="https://komarev.com/ghpvc/?username=RussiaFPS&label=Profile%20views&color=9834eb&style=flat" alt="RussiaFPS" /> </p>
 
 
 ## Some Repositories 📌
 <a href="https://github.com/RussiaFPS/e-manager">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RussiaFPS&repo=e-manager&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RussiaFPS&repo=e-manager&theme=tokyonight" />
 </a>
 
 <br>
 
 <a href="https://github.com/RussiaFPS/Fallout-Terminal-Game">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RussiaFPS&repo=Fallout-Terminal-Game&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RussiaFPS&repo=Fallout-Terminal-Game&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/RussiaFPS/tourist">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RussiaFPS&repo=tourist&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RussiaFPS&repo=tourist&theme=tokyonight" />
 </a>
 
 
 ## GitHub Stats 📈 
 <a href="https://github.com/RussiaFPS">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussiaFPS&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussiaFPS&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/RussiaFPS">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=RussiaFPS&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff" alt="RussiaFPS GitHub Stats" />
-</a>
+\
+[![GitHub Streak](https://streak-stats.demolab.com?user=RussiaFPS&theme=tokyonight)](https://git.io/streak-stats)
+
 
 ## Skills 💼
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
