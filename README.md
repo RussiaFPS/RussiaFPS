@@ -23,10 +23,6 @@
 
 
 ## GitHub Stats 📈 
-<a href="https://github.com/RussiaFPS">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussiaFPS&theme=tokyonight" />
-</a>
-
 \
 [![GitHub Streak](https://streak-stats.demolab.com?user=RussiaFPS&theme=tokyonight)](https://git.io/streak-stats)
 
